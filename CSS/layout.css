@@ -1,0 +1,40 @@
+/*
+Template Name: PhotoBusiness
+File: Layout CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+body{
+	margin:0;
+	padding:0;
+	font-size:12px;
+	font-family:verdana, Arial, Helvetica, sans-serif;
+	color:#CCCCCC;
+	background-color:#2E2E2E;
+	}
+/* ----------------------------------------------Wrapper-------------------------------------*/
+
+div.container{
+	display:block;
+	width:960px;
+	height:960px;
+	margin:10px;
+	padding: 10px;
+	text-align:left;
+	background-color: blue;
+	}
+.cell{
+	display:inline-block;
+	width:60px;
+	height:60px;
+	margin:10px;
+	padding: 10px;
+	text-align:left;
+	background-color: red;
+	}
+.green{
+	background-color: green;
+}
+

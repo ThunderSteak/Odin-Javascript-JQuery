@@ -23,18 +23,23 @@ div.container{
 	margin:10px;
 	padding: 10px;
 	text-align:left;
-	background-color: blue;
-	}
-.cell{
-	display:inline-block;
-	width:60px;
-	height:60px;
-	margin:10px;
-	padding: 10px;
-	text-align:left;
 	background-color: red;
 	}
-.green{
-	background-color: green;
-}
+.row{
+	display:block;
+	width:960px;
+	margin:0px;
+	padding: 0px;
+	text-align:left;
+	}
+.cell{
+	display:block;
+	float: left;
+	width:60px;
+	height:60px;
+	margin:0px;
+	padding: 0px;
+	text-align:left;
+	background-color: grey;
+	}
 
